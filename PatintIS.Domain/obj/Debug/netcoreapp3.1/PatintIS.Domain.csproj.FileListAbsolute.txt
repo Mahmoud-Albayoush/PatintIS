@@ -1,0 +1,10 @@
+D:\mahmoud\PatintIS.Domain\PatintIS.Domain\bin\Debug\netcoreapp3.1\PatintIS.Domain.deps.json
+D:\mahmoud\PatintIS.Domain\PatintIS.Domain\bin\Debug\netcoreapp3.1\PatintIS.Domain.dll
+D:\mahmoud\PatintIS.Domain\PatintIS.Domain\bin\Debug\netcoreapp3.1\PatintIS.Domain.pdb
+D:\mahmoud\PatintIS.Domain\PatintIS.Domain\obj\Debug\netcoreapp3.1\PatintIS.Domain.csproj.AssemblyReference.cache
+D:\mahmoud\PatintIS.Domain\PatintIS.Domain\obj\Debug\netcoreapp3.1\PatintIS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\mahmoud\PatintIS.Domain\PatintIS.Domain\obj\Debug\netcoreapp3.1\PatintIS.Domain.AssemblyInfoInputs.cache
+D:\mahmoud\PatintIS.Domain\PatintIS.Domain\obj\Debug\netcoreapp3.1\PatintIS.Domain.AssemblyInfo.cs
+D:\mahmoud\PatintIS.Domain\PatintIS.Domain\obj\Debug\netcoreapp3.1\PatintIS.Domain.csproj.CoreCompileInputs.cache
+D:\mahmoud\PatintIS.Domain\PatintIS.Domain\obj\Debug\netcoreapp3.1\PatintIS.Domain.dll
+D:\mahmoud\PatintIS.Domain\PatintIS.Domain\obj\Debug\netcoreapp3.1\PatintIS.Domain.pdb

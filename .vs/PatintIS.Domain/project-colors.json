@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cea5eea9-cdfb-4858-b8b5-30f8f0d8bb48": {
+      "ProjectGuid": "cea5eea9-cdfb-4858-b8b5-30f8f0d8bb48",
+      "DisplayName": "PatintIS.Domain",
+      "ColorIndex": 0
+    },
+    "4922bc44-85de-41ed-acbd-d37d618d001f": {
+      "ProjectGuid": "4922bc44-85de-41ed-acbd-d37d618d001f",
+      "DisplayName": "PatientIS.Application",
+      "ColorIndex": 1
+    },
+    "137c8338-e4a4-4844-830a-3517b2646640": {
+      "ProjectGuid": "137c8338-e4a4-4844-830a-3517b2646640",
+      "DisplayName": "PatintIS.Application",
+      "ColorIndex": 2
+    },
+    "b62428ed-56c0-4ae4-ac0c-1af99f962bf8": {
+      "ProjectGuid": "b62428ed-56c0-4ae4-ac0c-1af99f962bf8",
+      "DisplayName": "PatintIS.Persistence",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "23315fec-5c9a-4197-8a96-d82cf8f47222": {
+      "ProjectGuid": "23315fec-5c9a-4197-8a96-d82cf8f47222",
+      "DisplayName": "PatintIS.Persistence",
+      "ColorIndex": 4
+    },
+    "cf8e40a3-d268-41c0-8707-ef12f74a0dee": {
+      "ProjectGuid": "cf8e40a3-d268-41c0-8707-ef12f74a0dee",
+      "DisplayName": "PatintIS.Persistence",
+      "ColorIndex": 5
+    },
+    "bffcc831-9c1f-4fa5-b797-2784c53af669": {
+      "ProjectGuid": "bffcc831-9c1f-4fa5-b797-2784c53af669",
+      "DisplayName": "PatintIS.API",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

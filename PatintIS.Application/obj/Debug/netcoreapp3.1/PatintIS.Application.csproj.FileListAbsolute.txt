@@ -1,0 +1,13 @@
+D:\mahmoud\PatintIS.Domain\PatintIS.Application\bin\Debug\netcoreapp3.1\PatintIS.Application.deps.json
+D:\mahmoud\PatintIS.Domain\PatintIS.Application\bin\Debug\netcoreapp3.1\PatintIS.Application.dll
+D:\mahmoud\PatintIS.Domain\PatintIS.Application\bin\Debug\netcoreapp3.1\PatintIS.Application.pdb
+D:\mahmoud\PatintIS.Domain\PatintIS.Application\bin\Debug\netcoreapp3.1\PatintIS.Domain.dll
+D:\mahmoud\PatintIS.Domain\PatintIS.Application\bin\Debug\netcoreapp3.1\PatintIS.Domain.pdb
+D:\mahmoud\PatintIS.Domain\PatintIS.Application\obj\Debug\netcoreapp3.1\PatintIS.Application.csproj.AssemblyReference.cache
+D:\mahmoud\PatintIS.Domain\PatintIS.Application\obj\Debug\netcoreapp3.1\PatintIS.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\mahmoud\PatintIS.Domain\PatintIS.Application\obj\Debug\netcoreapp3.1\PatintIS.Application.AssemblyInfoInputs.cache
+D:\mahmoud\PatintIS.Domain\PatintIS.Application\obj\Debug\netcoreapp3.1\PatintIS.Application.AssemblyInfo.cs
+D:\mahmoud\PatintIS.Domain\PatintIS.Application\obj\Debug\netcoreapp3.1\PatintIS.Application.csproj.CoreCompileInputs.cache
+D:\mahmoud\PatintIS.Domain\PatintIS.Application\obj\Debug\netcoreapp3.1\PatintIS.Application.csproj.CopyComplete
+D:\mahmoud\PatintIS.Domain\PatintIS.Application\obj\Debug\netcoreapp3.1\PatintIS.Application.dll
+D:\mahmoud\PatintIS.Domain\PatintIS.Application\obj\Debug\netcoreapp3.1\PatintIS.Application.pdb

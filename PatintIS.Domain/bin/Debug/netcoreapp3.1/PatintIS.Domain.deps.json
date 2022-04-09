@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PatintIS.Domain/1.0.0": {
+        "runtime": {
+          "PatintIS.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PatintIS.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
